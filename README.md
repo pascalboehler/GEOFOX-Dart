@@ -1,39 +1,20 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# GEOFOX Dart Package
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
+This package simplifies the interaction with the GTI Geofox API used by the HVV in Hamburg (Germany).
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+**THIS PACKAGE CURRENTLY IS A WORK IN PROGRESS AND NOT MEANT TO BE USED IN PRODUCTION**
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+* Access timetable data from the HVV
+* 
 
-## Getting started
+## How to use it
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+## Important hints
 
-## Usage
+To use this package, please request API access from HVV via the official method and use the supplied credentials to authentificate yourself via the given method
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+## Copyright / License
 
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+This project is maintained by Pascal Böhler and licensed under the GNU General Public License v3 (GPLv3) and therefor free to use by anyone
