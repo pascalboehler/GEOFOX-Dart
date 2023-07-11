@@ -6,8 +6,7 @@ This package simplifies the interaction with the GTI Geofox API used by the HVV 
 
 ## Features
 
-* Access timetable data from the HVV
-* 
+* Access timetable data from the HVV (schedule + realtime)
 
 ## How to use it
 
