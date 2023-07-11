@@ -1,8 +1,8 @@
+**THIS PACKAGE CURRENTLY IS A WORK IN PROGRESS AND NOT MEANT TO BE USED IN PRODUCTION**
+
 # GEOFOX Dart Package
 
 This package simplifies the interaction with the GTI Geofox API used by the HVV in Hamburg (Germany).
-
-**THIS PACKAGE CURRENTLY IS A WORK IN PROGRESS AND NOT MEANT TO BE USED IN PRODUCTION**
 
 ## Features
 
