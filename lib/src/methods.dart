@@ -1,5 +1,7 @@
 class Methods {
-  Methods() {}
+  Methods() {
+    print("I AM ALIVE");
+  }
 
   void auth(String username, String password) {
     print(username);
@@ -8,5 +10,9 @@ class Methods {
 
   void init() {
     print("Hello");
+  }
+
+  void signRequest() {
+    print("Sign me in")
   }
 }
