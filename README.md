@@ -8,7 +8,33 @@ This package simplifies the interaction with the GTI Geofox API used by the HVV 
 
 * Access timetable data from the HVV (schedule + realtime)
 
-## How to use it
+## Progress / Supported methods:
+
+### Important
+
+- [ ] Auth
+- [ ] Init
+- [ ] checkName
+- [ ] checkPostalCode
+- [ ] getRoute
+- [ ] departureList
+- [ ] departureCourse
+- [ ] listStations
+- [ ] listLines
+- [ ] getAnnouncements
+- [ ] getIndividualRoute
+- [ ] getVehicleMap
+
+### Not so important
+
+- [ ] singleTicketOptimizer
+- [ ] ticketList
+- [ ] tariffMetaData
+- [ ] tariffZoneNeighbours
+- [ ] getTariff
+- [ ] getTrackCoordinates
+
+## How to use it  
 
 ## Important hints
 
