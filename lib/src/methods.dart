@@ -1,4 +1,7 @@
 class Methods {
+
+  String GTIDefaultPath = "gti.geofox.com";
+
   Methods() {
     print("I AM ALIVE");
   }
@@ -13,6 +16,6 @@ class Methods {
   }
 
   void signRequest() {
-    print("Sign me in")
+    print("Sign me")
   }
 }
